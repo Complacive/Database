@@ -6,7 +6,7 @@ const config = {
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "root",
+  password: "11111111",
   database: "fs_bnb"
 };
 
